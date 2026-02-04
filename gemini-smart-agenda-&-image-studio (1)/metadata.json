@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Smart Agenda & Image Studio",
+  "description": "A sophisticated agenda app with integrated alarms and an AI-powered image studio using Gemini 2.5 Flash Image for text-to-image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
